@@ -1,5 +1,5 @@
 # chaosdump
-Simple bash script that download the zip file for given domain via chaos-data.projectdiscovery.io &amp; extracts txt file and list all the subdomains as output
+Simple bash script helps you find subdomains for a domain name by downloading and extracting a zip file from chaos-data.projectdiscovery.io . It displays the list of subdomains and the total count of subdomains found in the text files
 
 ![This is an image](https://github.com/iHassn/chaosdump/blob/main/.chaos.png)
 
